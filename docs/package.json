@@ -1,0 +1,19 @@
+{
+  "name": "onz-auth-documentation",
+  "version": "0.0.1",
+  "description": "OnzAuth documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "admin",
+    "email": "support@onzauth.com"
+  },
+  "repository": "https://github.com/zailky/onz-auth-documentation/onz-auth-documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
